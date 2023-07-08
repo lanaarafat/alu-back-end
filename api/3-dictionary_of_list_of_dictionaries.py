@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+'''json'''
 import json
 import requests
 

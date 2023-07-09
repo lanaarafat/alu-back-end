@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 """requests"""
 
@@ -5,6 +6,7 @@ import requests
 import sys
 
 """requests"""
+
 if __name__ == "__main__":
     user_id = sys.argv[1]
     user_url = "https://jsonplaceholder.typicode.com/user/{}" \.format(user.id)
